@@ -18,7 +18,7 @@ char findGrade(double x){
     if(x > 45 && x <= 60){
         return 'D';
     }
-    if(x <+ 45){
+    if(x <= 45){
         return 'F';
     }
    
